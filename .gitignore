@@ -1,0 +1,27 @@
+# Wrangler files
+wrangler.toml
+wrangler.dev.toml
+
+# Node.js files
+node_modules/
+npm-debug.log
+
+# Build files
+dist/
+
+# Environment variables
+.env
+
+# MacOS files
+.DS_Store
+
+# Log files
+*.log
+
+# Editor specific files
+.vscode/
+.idea/
+
+# Dependency lock files
+yarn.lock
+package-lock.json
